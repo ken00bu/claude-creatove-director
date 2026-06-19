@@ -227,4 +227,8 @@ All examples below: brief generated with **Claude Sonnet 4.6**, HTML built by **
 
 ## License
 
-MIT License — see [LICENSE](LICENSE) for details.
+Licensed under CC BY-NC 4.0.
+
+You may use, copy, modify, and share this project for non-commercial purposes only. Commercial use, resale, paid redistribution, or inclusion in paid products/services is not allowed without permission.
+
+© 2026 Muhammad Fikri.
