@@ -1,23 +1,45 @@
 <h1 align="center">creative-director</h1>
+
+<p align="center">
+  A Claude Skill that turns a visual brief into a creative brief for AI.
+</p>
+
+<p align="center">
+  <em>Make a creative brief, not a design system.</em>
+</p>
+
 <div align="center">
-<img width="800" height="450" alt="creative-director demo" src="./assets/demo.gif" />
-<br /><br />
-<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/3a01b680-51df-46e5-a057-4a0297ca1d47" />
+  <img
+    width="800"
+    height="450"
+    alt="creative-director demo"
+    src="./assets/demo.gif"
+  />
+
+  <br /><br />
+
+  <img
+    width="800"
+    height="450"
+    alt="creative-director output example"
+    src="https://github.com/user-attachments/assets/3a01b680-51df-46e5-a057-4a0297ca1d47"
+  />
 </div>
 
+<br />
 
-A Claude Skill that turns a visual brief — a reference image, a mood, a brand —
-into a **creative brief for AI** tailored to that exact brief. It does not
-generate the final landing page, portfolio, or interactive artifact itself.
-It generates the *instructions* a builder (a follow-up Claude pass, or any other model)
-uses to generate that artifact.
+**creative-director** turns a visual brief — a reference image, a mood, a brand —
+into a **creative brief for AI** tailored to that exact brief.
 
 Think of it as hiring a creative director before you hire a developer.
+
+It does not generate the final landing page, portfolio, or interactive artifact itself.
+It generates the *instructions* a builder — a follow-up Claude pass, or any other model —
+uses to generate that artifact.
 
 > **Important:** `creative-director` produces a **creative brief**, not a design system.
 > A design system gives you walls. This gives you a canvas — stretched and primed
 > for one specific painting.
-
 ---
 
 ## How It Works
