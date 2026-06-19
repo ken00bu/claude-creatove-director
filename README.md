@@ -18,9 +18,6 @@ Think of it as hiring a creative director before you hire a developer.
 ## How It Works
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                        YOUR WORKFLOW                            │
-└─────────────────────────────────────────────────────────────────┘
 
   [1] Reference Image / Mood
            │
