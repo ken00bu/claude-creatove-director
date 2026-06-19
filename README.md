@@ -1,6 +1,13 @@
 # creative-director
 
-<img width="1906" height="956" alt="image" src="https://github.com/user-attachments/assets/7b82fa26-9622-40f3-9c2c-314b8655908e" />
+<img
+  width="800"
+  height="450"
+  alt="creative-director demo"
+  src="./assets/demo.gif"
+/>
+
+
 A Claude Skill that turns a visual brief — a reference image, a mood, a brand —
 into a **creative brief for AI** tailored to that exact brief. It does not
 generate the final landing page, portfolio, or interactive artifact itself.
